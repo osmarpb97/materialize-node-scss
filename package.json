@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "sass": "node-sass -w NetHuntersWeb/static/scss/ -o NetHuntersWeb/static/css/",
+    "sass": "node-sass -w WebName/static/scss/ -o WebName/static/css/",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Osmar",
